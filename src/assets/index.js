@@ -65,7 +65,6 @@ export {
   javascript,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
