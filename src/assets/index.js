@@ -9,15 +9,11 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
@@ -30,9 +26,6 @@ import scaffolding from "./company/scaffolding.png";
 import beijing from "./company/beijing.png";
 
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import onthemat from "./onthemat.png";
 import emody from "./emody.png";
 import thr33 from "./thr33.png";
@@ -40,11 +33,6 @@ import thr33 from "./thr33.png";
 
 
 import aws from "./tech/aws.png";
-import bootstrap from "./tech/bootstrap.png";
-import express from "./tech/express.png";
-import ionic from "./tech/ionic.png";
-import knex from "./tech/knex.png";
-import mantine from "./tech/mantine.png";
 import next from "./tech/next.png";
 import postgresql from "./tech/postgresql.png";
 import python from "./tech/python.png";
